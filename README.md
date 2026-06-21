@@ -4,7 +4,7 @@
 
 NgeLinkDo is a fast, visually appealing, and highly customizable 'Link in Bio' page generator. Tailor your online identity, list all your essential links, and export them into a single, lightweight HTML file that you can host anywhere for free.
 
-![NgeLinkDo Preview](https://user-images.githubusercontent.com/91387097/155099294-633d6e33-8519-4365-aa36-95780ad5d88a.gif)
+![NgeLinkDo Preview](ss.png)
 
 _Note: Replace the preview link above with your own screenshot/gif once the UI is fully customized._
 
