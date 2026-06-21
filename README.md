@@ -8,7 +8,7 @@ NgeLinkDo is a fast, visually appealing, and highly customizable 'Link in Bio' p
 
 _Note: Replace the preview link above with your own screenshot/gif once the UI is fully customized._
 
-Live Demo: [Giraldo.link](https://link-gen.netlify.app/) _(Update this link once deployed to your own Netlify)_
+Live Demo: [Giraldo.link](https://ngelinkdo.netlify.app/) _(Update this link once deployed to your own Netlify)_
 
 ---
 
